@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://media.licdn.com/dms/image/D4E16AQH60trX8jeiIA/profile-displaybackgroundimage-shrink_350_1400/0/1713655058709?e=1718841600&v=beta&t=mXYS3VAOzcQxRy-TJ1YH2tFr0v6tKhD5uz1TvVMIFfY">
+
 <!--
 **JMurilloCortes/JMurilloCortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
