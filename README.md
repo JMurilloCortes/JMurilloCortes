@@ -13,9 +13,10 @@
 
 ✉️ ¡No dudes en contactarme! Puedes encontrarme en mi correo electrónico: jealmuco@gmail.com
 
-🔗 Además, te invito a visitar mi perfil de LinkedIn para conocer más sobre mi experiencia y habilidades como desarrollador full stack: <a href="https://www.linkedin.com/in/jerry-murillo/" target="_blank">LinkedIn</a>
+🔗 Además, te invito a visitar mi perfil de LinkedIn para conocer más sobre mi experiencia y habilidades como desarrollador full stack: <a href="https://www.linkedin.com/in/jerry-murillo/" onclick="window.open(this.href,'_blank');return false;">LinkedIn</a>
 
 ¡Estoy emocionado por conectar contigo y explorar posibles oportunidades de colaboración! 💼🚀
+
 
 
 
