@@ -80,7 +80,7 @@
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://res.cloudinary.com/dtarklm7p/image/upload/v1713709746/idgbv2j3zhjneap4lsyj.png" width="400" alt="Ecommerce Be-comfree"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
