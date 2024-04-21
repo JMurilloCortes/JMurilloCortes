@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Creamos un Ecommerce de moda como proyecto final en Henry Bootcamp. Permite a los usuarios explorar productos, realizar compras seguras y gestionar pedidos. Desarrollado con tecnologías modernas como React.js, Node.js, Zustand y Tailwind, garantiza una experiencia de compra intuitiva y completa..</p>
+<p>Creamos un Ecommerce de moda como proyecto final en Henry Bootcamp. Permite a los usuarios explorar productos, realizar compras seguras y gestionar pedidos. Desarrollado con tecnologías modernas como React.js, Node.js, Zustand y Tailwind, garantiza una experiencia de compra intuitiva y completa.</p>
 </div>
                                                                                       
                                                                                       
