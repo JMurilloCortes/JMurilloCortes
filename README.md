@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Creamos un Ecommerce de moda como proyecto final en Henry Bootcamp. Permite a los usuarios explorar productos, realizar compras seguras y gestionar pedidos. Desarrollado con tecnologías modernas como React.js, Node.js, Zustand y Tailwind, garantiza una experiencia de compra intuitiva y completa..</p>
 </div>
                                                                                       
                                                                                       
