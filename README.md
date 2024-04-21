@@ -29,7 +29,7 @@
 | HTML5           | Node.js        | PostgreSQL     | Material-UI              |
 | CSS3            | Express.js     | MySQL          | RESTful APIs             |
 | JavaScript      |                | Sequalize      | Github                   |
-| React.js        |                |                | Deploy                   |
+| React.js        |                |                | Deploy Vercel            |
 | Redux           |                |                |                          |
 | Zustand         |                |                |                          |
 | Tailwind        |                |                |                          |
