@@ -7,7 +7,7 @@
 
 ## Sobre mi
 
-👋 ¡Hola! Soy un desarrollador full stack con experiencia en el diseño y desarrollo de aplicaciones web. 💻 Desde el front-end hasta el back-end, me encanta trabajar en todos los aspectos de un proyecto para ofrecer soluciones completas y eficientes.
+👋 Soy un desarrollador full stack con experiencia en el diseño y desarrollo de aplicaciones web. 💻 Desde el front-end hasta el back-end, me encanta trabajar en todos los aspectos de un proyecto para ofrecer soluciones completas y eficientes.
 
 🔍 Actualmente, estoy en búsqueda de nuevas oportunidades que me desafíen y me permitan seguir creciendo profesionalmente como desarrollador full stack. Siempre estoy emocionado por colaborar en proyectos innovadores y trabajar en equipos apasionados.
 
