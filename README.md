@@ -18,6 +18,17 @@
 ¡Estoy emocionado por conectar contigo y explorar posibles oportunidades de colaboración! 💼🚀
 
 
+## Tecnologías que manejo
+
+| Front-end       | Back-end       | Base de datos  | librerias y herramientas |
+|-----------------|----------------|----------------|--------------------------|
+| HTML5           | Node.js        | PostgreSQL     | Material-UI              |
+| CSS3            | Express.js     | MySQL          | RESTful APIs             |
+| JavaScript      |                |                | Github                   |
+| React.js        |                |                | Deploy                   |
+| Redux           |                |                |                          |
+| Zustand         |                |                |                          |
+| Tailwind        |                |                |                          |
 
 
 
