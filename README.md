@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/jerry-murillo/">Jerry Murillo</a> 👋</h1>
 </div>
-<img src="https://res.cloudinary.com/dtarklm7p/image/upload/v1713660613/mlinxo9qrozyxntiml5r.png">
+<img src="https://res.cloudinary.com/dtarklm7p/image/upload/v1713730909/psovbbonovsjcvugqgms.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/JMurilloCortes?style=social)](https://github.com/JMurilloCortes)
 
