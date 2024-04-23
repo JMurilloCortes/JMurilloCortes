@@ -78,7 +78,7 @@
 <td width="50%">
 <h3 align="center">Proyecto Final Grupal Academia Henry - Ecommerce</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://res.cloudinary.com/dtarklm7p/image/upload/v1713709746/idgbv2j3zhjneap4lsyj.png" width="400" alt="Ecommerce Be-comfree"></a>
+<a href="#" target="_blank"><img src="https://res.cloudinary.com/dtarklm7p/image/upload/v1713709746/idgbv2j3zhjneap4lsyj.png" width="400" alt="Ecommerce Be-comfree"></a>
 <p>
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
